@@ -1,0 +1,81 @@
+header{
+    background-color: darksalmon;
+    border-top-left-radius: 20px;
+}
+
+header img{
+    height: 80px;
+    border: 3px solid lightblue;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: lightgray;
+}
+
+body{
+    font-family: sans-serif;
+    background: 
+    url("https://png.clipart.me/istock/previews/2675/26758937-salad-and-a-dish.jpg") no-repeat 12% 5%,
+    url("https://png.clipart.me/istock/previews/4737/47377918-vector-vegetables-icon.jpg") no-repeat 98% 72%
+}
+
+header{
+    height: 86px;
+}
+
+nav{
+    background-color:rgba(224, 190, 101, 0.781);
+    margin-top: 5px;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgba(34, 110, 91, 0.842); 
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(53, 148, 34);
+}
+
+h2{
+    text-align: center;
+    color: rgba(218, 68, 68, 0.842);
+}
+
+p{
+    color: rgba(116, 160, 58, 0.959);
+    text-align: center;
+    border: 2px solid rgba(111, 238, 255, 0.548);
+    width: 500px;
+}
+
+ol{
+    color: rgb(150, 137, 38);
+    border: 2px dotted rgb(93, 166, 202);
+}
+
+.salat{
+    height: 400px;
+    width: 650px;
+    border: 2px solid burlywood;
+}
+
+footer{
+    background-color: rgb(113, 119, 119);
+}
+
+.foter{
+    color: rgb(221, 249, 250);
+    border: none;
+    width: 100%;
+    padding: 5px;
+}
+
+.palez{
+    width: 450px;
+    height: 500px;
+    border: 2px solid rgb(192, 186, 186);
+}
